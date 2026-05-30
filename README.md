@@ -1,1 +1,3 @@
 [![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a133c235-e8da-4646-aa5e-4c35e704caac)
+
+[![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-white?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=white)](https://verify.skilljar.com/c/8d5rj6zq3s4i)
